@@ -3,9 +3,12 @@
 <p align="center"><img width="30%" src="/images/ASP_DAC_logo.png"></p><br/> 
 
 
-#### RESNET saved modes:
+#### Robust RESNET saved modes:
 1. [ResNet18 Channel pruned on CIFAR-10](https://drive.google.com/file/d/1kbyl34OTxt7YBJON6VpdMBNQWejWpGZN/view?usp=sharing)
 2. [ResNet18 Irregular pruned on CIFAR-10](https://drive.google.com/file/d/1nmAPjhM0Hlo2I7k6UPeGDta8g2kN6xJI/view?usp=sharing)
+#### Robust VGG saved modes:
+1. [VGG16 Channel pruned on CIFAR-10](https://drive.google.com/file/d/1hzeTRoFo0vaPVqRhVQjr80ugsSk6zlvh/view?usp=sharing)
+2. [VGG16 Irregular pruned on CIFAR-10](https://drive.google.com/file/d/1-aYjjBaulln_nfxagF6fhsYuToG-FSBk/view?usp=sharing)
 
 #### To test adversarial accuracy of a saved model, please:
 1. Copy and bring the model to same location as the *.py files.

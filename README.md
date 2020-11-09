@@ -1,3 +1,5 @@
+<p align="center"><img width="30%" src="/images/ASP_DAC_logo.png"></p><br/> 
+
 To test adversarial accuracy of a saved model, please:
 =======================================================
 1. Copy and bring the model to same location as the *.py files.

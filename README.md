@@ -15,3 +15,14 @@
 2. Open the run_test.py file to change model_type ['resnet18' or 'vgg16'] and provide the dataset='cifar10'.
 3. Provide --adv_eval to enable adversarial evaluation.
 4. Run python file: 'python run_test.py'
+
+### Cite this work:
+
+  @article{kundu2020tunable,
+  title={A Tunable Robust Pruning Framework Through Dynamic Network Rewiring of DNNs}, 
+  author={Souvik Kundu and Mahdi Nazemi and Peter A. Beerel and Massoud Pedram},
+  year={2020},
+  journal={arXiv preprint arXiv:2011.03083},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+ }

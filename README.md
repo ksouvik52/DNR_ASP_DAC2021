@@ -4,7 +4,7 @@
 
 
 #### RESNET saved modes:
-[ResNet18 on CIFAR-10] (https://drive.google.com/drive/u/2/folders/1q5CKftAQO_zo3PhuZJ07XyjmwFqwqXGX)
+[ResNet18 on CIFAR-10](https://drive.google.com/drive/u/2/folders/1q5CKftAQO_zo3PhuZJ07XyjmwFqwqXGX)
 
 #### To test adversarial accuracy of a saved model, please:
 1. Copy and bring the model to same location as the *.py files.

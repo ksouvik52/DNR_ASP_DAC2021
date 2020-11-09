@@ -16,6 +16,9 @@
 3. Provide --adv_eval to enable adversarial evaluation.
 4. Run python file: 'python run_test.py'
 
+### Arxiv pre-print version: 
+[arxiv_version](https://arxiv.org/abs/2011.03083)
+
 ### Cite this work:
       @misc
       {kundu2020tunable, 

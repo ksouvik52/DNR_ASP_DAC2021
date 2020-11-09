@@ -18,7 +18,7 @@
 
 ### Cite this work:
       @misc
-      {8919683, 
+      {kundu2020tunable, 
       author    ={Souvik Kundu and Mahdi Nazemi and Peter A. Beerel and Massoud Pedram}, 
       title     ={A Tunable Robust Pruning Framework Through Dynamic Network Rewiring of DNNs}}, 
       year      ={2020}, 

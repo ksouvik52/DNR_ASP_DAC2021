@@ -17,8 +17,15 @@
 4. Run python file: 'python run_test.py'
 
 ### Cite this work:
-
-  @article{kundu2020tunable,
+      @misc
+      {8919683, 
+      author    ={S. {Kundu} and S. {Prakash} and H. {Akrami} and P. A. {Beerel} and K. M. {Chugg}}, 
+      booktitle ={2019 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton)}, 
+      title     ={pSConv: A Pre-defined Sparse Kernel Based Convolution for Deep CNNs}, 
+      year      ={2019}, 
+      pages     ={100-107},}
+  @misc
+  {kundu2020tunable,
   title={A Tunable Robust Pruning Framework Through Dynamic Network Rewiring of DNNs}, 
   author={Souvik Kundu and Mahdi Nazemi and Peter A. Beerel and Massoud Pedram},
   year={2020},

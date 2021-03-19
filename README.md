@@ -27,11 +27,10 @@ This repo contains the test codes and saved models of our ASP-DAC 2021 paper: [D
 [arxiv_version](https://arxiv.org/abs/2011.03083)
 
 ### Cite this work:
-      @misc
-      {kundu2020tunable, 
-      author    ={Souvik Kundu and Mahdi Nazemi and Peter A. Beerel and Massoud Pedram}, 
-      title     ={A Tunable Robust Pruning Framework Through Dynamic Network Rewiring of DNNs}}, 
-      year      ={2020}, 
-      journal={arXiv preprint arXiv:2011.03083},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},}
+      @inproceedings{kundu2021dnr,
+      title={DNR: A Tunable Robust Pruning Framework Through Dynamic Network Rewiring of DNNs},
+      author={Kundu, Souvik and Nazemi, Mahdi and Beerel, Peter A and Pedram, Massoud},
+      booktitle={Proceedings of the 26th Asia and South Pacific Design Automation Conference},
+      pages={344--350},
+      year={2021}
+      }

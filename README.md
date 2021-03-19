@@ -3,7 +3,7 @@
 
 <p align="center"><img width="30%" src="/images/ASP_DAC_logo.png"></p><br/> 
 
-This repo contains the test codes and saved models of our recently accepted ASP-DAC 2021 paper: [DNR: A Tunable Robust Pruning FrameworkThrough Dynamic Network Rewiring of DNNs](https://dl.acm.org/doi/10.1145/3394885.3431542)
+This repo contains the test codes and saved models of our ASP-DAC 2021 paper: [DNR: A Tunable Robust Pruning FrameworkThrough Dynamic Network Rewiring of DNNs](https://dl.acm.org/doi/10.1145/3394885.3431542)
 
 [arxiv version](https://arxiv.org/abs/2011.03083). 
 

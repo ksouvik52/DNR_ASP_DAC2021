@@ -5,10 +5,11 @@
 
 This repo contains the test codes and saved models of our ASP-DAC 2021 paper: [DNR: A Tunable Robust Pruning FrameworkThrough Dynamic Network Rewiring of DNNs](https://dl.acm.org/doi/10.1145/3394885.3431542)
 
-[arxiv version](https://arxiv.org/abs/2011.03083). 
-
 ### Author:
 **Souvik Kundu** (souvikku@usc.edu)
+Mahdi Nazemi (nazemi@usc.edu)
+Peter A. Beerel (pabeerel@usc.edu)
+Massoud Pedram (pedram@usc.edu)
 
 #### Robust RESNET saved modes:
 1. [ResNet18 Channel pruned on CIFAR-10](https://drive.google.com/file/d/1kbyl34OTxt7YBJON6VpdMBNQWejWpGZN/view?usp=sharing)
